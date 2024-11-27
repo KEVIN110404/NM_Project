@@ -22,7 +22,7 @@ Welcome to the MERN Grocery Shop Project! This project is built using the MERN (
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/PradipKhamkar/grocery-shop.git
+   https://github.com/KEVIN110404/NM_Project.git
    ```
 
 2. Change into the project directory:
